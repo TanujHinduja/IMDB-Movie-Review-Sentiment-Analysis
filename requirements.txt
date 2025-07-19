@@ -6,3 +6,5 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+plotly
+streamlit-extras
