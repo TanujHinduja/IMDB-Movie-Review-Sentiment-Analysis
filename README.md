@@ -2,6 +2,8 @@
 
 A Streamlit web app that uses a trained Simple RNN model to classify movie reviews as **Positive** or **Negative**.
 
+Check out the live app here: https://imdb-movie-review-sentiment-analysis-by-tanujhinduja.streamlit.app/
+
 <img width="1920" height="907" alt="imdb" src="https://github.com/user-attachments/assets/fc8367c5-16c6-4250-afc7-cd587d10fdf8" />
 
 
