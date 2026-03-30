@@ -8,3 +8,4 @@ streamlit
 scikeras
 plotly
 streamlit-extras
+altair==4.2.2
